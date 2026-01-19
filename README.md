@@ -2,10 +2,10 @@
 
 A clean and functional browser extension designed for marketers and researchers to save web leads instantly. This project was built as part of my journey in the **Scrimba Full-Stack Developer Career Path**, focusing on DOM manipulation and browser APIs.
 
-![Leads Tracker Preview](screenshot.png)
+![Leads Tracker Preview](Screenshot.png)
 
 ## Features
-* **Save Current Tab:** Instantly capture the URL of the browser tab using the Chrome API.
+* **Save Current Tab:** Instantly capture the URL of the active browser tab using the Chrome API.
 * **Manual Input:** Type or paste leads directly into the input field for manual tracking.
 * **Persistent Storage:** Data is saved to `localStorage`, so your leads remain safe even if you close the popup or restart Chrome.
 * **Quick Clear:** A double-click feature on the "Delete All" button to clear your list and storage.
